@@ -24,7 +24,7 @@ The client can be executed by running the ```ui_client.py``` file present in the
 $ python3 ui_client.py
 ```
 The application window should be fired up and visible. In the application, fill in the deatils of the **username**, **server address** and **port number** for the connection. Click on **Join** button to establish connection with the server. You will be prompted of successful connection in the TextArea in the application. Once connected to the server, you can begin chatting with existing users of the chat room by entering your message in the text field given and clicking on **Send**.
-If you want to leave the chatroom, click on **Leave** button, it will gracefully shutdown connection and close the applivation.
+If you want to leave the chatroom, click on **Leave** button, it will gracefully shutdown connection and close the application.
 
 ### A Look at the UI
 

@@ -28,9 +28,10 @@ If you want to leave the chatroom, click on **Leave** button, it will gracefully
 
 ### A Look at the UI
 
-
+![ui](screenshots/ui_1.png)     
+![ui](screenshots/ui_3.png)
 
 ### Demo
-* Client-1:
-* Client-2:
-* Server:
+* Client-1: https://drive.google.com/file/d/15BGSdUbcui3-1-QFpKMnzIBowN-jNJc3/view?usp=sharing
+* Client-2: https://drive.google.com/file/d/1G_XyIS_0-viW3t4WIXyFmEWxqgPK34my/view?usp=sharing
+* Server: https://drive.google.com/file/d/1emJXra-Exv1Qwxd0uhmyU0ND9SqpdBc5/view?usp=sharing
